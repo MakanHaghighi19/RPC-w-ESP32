@@ -24,3 +24,5 @@ exit: Exits the main function gracefully, ensuring all threads are cleaned up pr
 Usage
 The client program prompts the user for commands to interact with the ESP32. Available commands include toggling LEDs, reading the temperature sensor, and subscribing to periodic temperature readings.
 
+Acknowledgements
+Special thanks to the course instructor Dr. Mike Turi for providing guidance and support throughout this project.
